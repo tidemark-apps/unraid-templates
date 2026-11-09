@@ -2,10 +2,10 @@
 
 [Community Applications](https://unraid.net/community/apps) template for [Tidemark](https://tidemarkanalytics.com), privacy-first web analytics.
 
-- Image: `ghcr.io/tidemark-analytics/tidemark` (amd64 and arm64)
+- Image: `ghcr.io/tidemark-apps/analytics` (amd64 and arm64)
 - Template: [`templates/tidemark.xml`](templates/tidemark.xml)
 - Guide: [Install with Docker](https://docs.tidemarkanalytics.com/article/137-install-with-docker)
-- Issues: [tidemark-analytics/tidemark](https://github.com/tidemark-analytics/tidemark/issues)
+- Issues: [tidemark-apps/analytics](https://github.com/tidemark-apps/analytics/issues)
 
 ## Install
 
